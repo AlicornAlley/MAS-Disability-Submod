@@ -1,0 +1,30 @@
+{
+    "__author": "AlicornAlley",
+    "version": 3,
+    "type": 0,
+    "name": "eyepatch",
+    "img_sit": "eyepatch",
+    "pose_map": {
+        "default": "0",
+        "l_default": "5"
+    },
+    "rec_layer": 1,
+    "acs_type": "mask",
+    "mux_type": [
+        "mask"
+    ],
+    "stay_on_start": true,
+    "giftname": "eyepatch",
+    "dlg_desc": "eyepatch",
+    "dlg_plural": false,
+    "select_info": {
+        "display_name": "Eyepatch",
+        "thumb": "eyepatch",
+        "group": "mask",
+        "select_dlg": [
+         "I actually quite like it!",
+            "For function and fashion~",
+            "I'll always support you! <3"
+        ]
+    }
+}

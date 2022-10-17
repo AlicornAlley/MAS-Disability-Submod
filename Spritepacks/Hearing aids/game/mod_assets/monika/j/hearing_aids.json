@@ -1,0 +1,32 @@
+{
+    "__author": "AlicornAlley",
+    "version": 3,
+    "type": 0,
+    "name": "hearing_aids",
+    "img_sit": "hearing_aids",
+    "pose_map": {
+        "default": "0",
+        "l_default": "5"
+    },
+    "stay_on_start": true,
+    "rec_layer": 1,
+    "priority": 20,
+    "acs_type": "ear_acs",
+    "mux_type": [
+        "ear_acs"
+    ],
+    "ex_props": {
+        "left-hair-strand-eye-level": false
+    },
+    "select_info": {
+        "display_name": "Hearing aids",
+        "thumb": "hearing_aids",
+        "group": "ear_acs",
+        "select_dlg": [
+            "Do you where hearing aids [player] ?"
+        ]
+    },
+    "giftname": "hearing_aids"
+}
+
+

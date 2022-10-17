@@ -1,0 +1,26 @@
+{
+    "__author": "otter",
+    "version": 3,
+    "type": 0,
+    "name": "acs_otter_oawarenessribbon_pin",
+    "img_sit": "otter_oawarenessribbon_pin",
+    "pose_map": {
+        "default": "0",
+        "l_default": "5"
+    },
+    "rec_layer": 4,
+    "acs_type": "pin_acs",
+    "stay_on_start": true,
+    "priority": 8,
+    "dlg_desc": "pin",
+    "dlg_plural": false,
+    "select_info": {
+        "display_name": "Orange Awareness Ribbon",
+        "thumb": "otter_oawarenessribbon_pin",
+        "group": "pin_acs",
+        "select_dlg": [
+            "Thanks for this ribbon, [player]!"
+        ]
+    },
+    "giftname": "otter_oawarenessribbon_pin"
+}

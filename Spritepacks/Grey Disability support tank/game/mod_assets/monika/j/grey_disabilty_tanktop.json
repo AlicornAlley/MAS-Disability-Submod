@@ -1,0 +1,27 @@
+{
+    "__author": "AlicornAlley",
+    "version": 3,
+    "type": 2,
+    "name": "grey_disabilty_tanktop",
+    "img_sit": "grey_disabilty_tanktop",
+    "pose_map": {
+        "mpm_type": 0,
+        "default": true,
+        "use_reg_for_l": true
+    },
+    "stay_on_start": true,
+    "ex_props": {
+        "bare-shoulders": true
+    },
+    "select_info": {
+        "display_name": "Grey Disability support tanktop",
+        "thumb": "grey_disabilty_tanktop",
+        "group": "clothes",
+        "select_dlg": [
+            "Everyone deserves love~",
+            "I will always support you [player] !"
+        ]
+    },
+    "giftname": "grey_disabilty_tanktop",
+    "pose_arms": {}
+}

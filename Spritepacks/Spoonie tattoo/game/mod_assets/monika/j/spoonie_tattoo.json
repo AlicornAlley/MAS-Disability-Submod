@@ -1,0 +1,27 @@
+{
+    "__author": "AlicornAlley",
+    "version": 3,
+    "type": 0,
+    "name": "spoonie_tattoo",
+    "img_sit": "spoonie_tattoo",
+    "pose_map": {
+        "default": "0",
+        "l_default": "5"
+    },
+    "rec_layer": 8,
+    "acs_type": "bodytattoo_acs",
+    "stay_on_start": true,
+    "priority": 1,
+    "dlg_desc": "tattoo",
+    "dlg_plural": false,
+    "select_info": {
+        "display_name": "Spoonie Tattoo",
+        "thumb": "spoonie_tattoo",
+        "group": "bodytattoo_acs"
+    },
+    "giftname": "spoonie_tattoo",
+    "arm_split": {
+        "default": "0",
+        "use_reg_for_l": true
+    }
+}

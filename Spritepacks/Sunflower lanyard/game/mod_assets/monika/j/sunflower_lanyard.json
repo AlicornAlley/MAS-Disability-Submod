@@ -1,0 +1,28 @@
+{
+    "__author": "AlicornAlley",
+    "version": 3,
+    "type": 0,
+    "name": "sunflower_lanyard",
+    "img_sit": "sunflower_lanyard",
+    "pose_map": {
+        "default": "0",
+        "l_default": "5"
+    },
+    "rec_layer": 6,
+    "acs_type": "necklace",
+    "stay_on_start": true,
+    "priority": 8,
+    "dlg_desc": "necklace",
+    "dlg_plural": false,
+    "select_info": {
+        "display_name": "Sunflower lanyard",
+        "thumb": "sunflower_lanyard",
+        "group": "necklace",
+        "select_dlg": [
+          "I will always support you, [player] !",
+          "You're not broken, you're perfect the way you are!",
+          "Making the invisible, visible~"
+        ]
+    },
+    "giftname": "sunflower_lanyard"
+}

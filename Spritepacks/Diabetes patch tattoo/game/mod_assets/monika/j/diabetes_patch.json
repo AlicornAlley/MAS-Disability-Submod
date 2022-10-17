@@ -1,0 +1,47 @@
+{
+    "__author": "AlicornAlley and Blakey",
+    "version": 3,
+    "type": 0,
+    "name": "diabetes_patch",
+    "img_sit": "diabetes_patch",
+    "pose_map": {
+        "p1": "1",
+        "p2": "2",
+        "p3": "3",
+        "p4": "4",
+        "p5": "5",
+        "p6": "6",
+        "p7": "7"
+    },
+    "stay_on_start": true,
+    "select_info": {
+        "display_name": "Diabetes patch tattoo",
+        "thumb": "diabetes_patch",
+        "group": "rarmtattoo_acs",
+        "visible_when_locked": false,
+        "select_dlg": [
+            "A helpful tool for diabetics~",
+            "I'll always support you [player] !",
+            "I wonder if you know anyone with one of these?"
+        ]
+    },
+    "giftname": "diabetes_patch",
+    "rec_layer": 9,
+    "priority": 1,
+    "acs_type": "rarmtattoo_acs",
+    "arm_split": {
+         "default": "0",
+         "l_default": "5",
+         "use_reg_for_l": true,
+         "p1": "10",
+         "p2": "5",
+         "p3": "10",
+         "p4": "0",
+         "p5": "10",
+         "p6": "0",
+         "p7": "0"
+    },
+    "dlg_desc": "diabetes patch tattoo",
+    "dlg_plural": false,
+    "keep_on_desk": false
+}
