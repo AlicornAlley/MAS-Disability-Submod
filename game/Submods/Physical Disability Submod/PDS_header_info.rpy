@@ -9,3 +9,11 @@ init -990 python in mas_submod_utils:
         version_updates={}
     )
 
+init -989 python:
+    if store.mas_submod_utils.isSubmodInstalled("Submod Updater Plugin"):
+        store.sup_utils.SubmodUpdater(
+            submod="Physical Disability Submod",
+            user_name="alicornalley",
+            repository_name="mas-disability-submod",
+            extraction_depth=3
+        )
